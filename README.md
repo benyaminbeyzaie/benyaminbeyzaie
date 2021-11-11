@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Java and Flutter
-- 🤔 I’m looking for help with How to solve a problem
+- 🔭 I’m currently working on Flutter and Front-end development 
+- 🌱 I’m currently learning HTML, CSS and JS
 - 💬 Ask me about Java, Flutter and Design
 - 📫 How to reach me: benyamin137928@gmail.com
-- ⚡ Fun fact: Our revolution is ruined!
-
