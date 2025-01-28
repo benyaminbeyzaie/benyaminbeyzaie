@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mobile development(Flutter, Java) and Front-end development 
-- 🌱 I’m currently learning React and Android development
-- 💬 Ask me about Java, Flutter and Design
+- 🔭 I’m currently working on a paper about Test Transfer
+- 🌱 I’m currently learning about LLM workflows
+- 💬 Ask me about how to buy smth you always wanted to buy and then not use it.
 - 📫 How to reach me: benyamin137928@gmail.com
